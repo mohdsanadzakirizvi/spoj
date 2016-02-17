@@ -6,3 +6,4 @@ This is a collection of Sphere Online Judge problems that I have solved.
 2. spoj_rmp.c : Solution for http://www.spoj.com/problems/ONP/ 
 3. spoj_halfofhalf.c : Solution for http://www.spoj.com/problems/STRHH/
 4. spoj_smpdiv.c : Solution for http://www.spoj.com/problems/SMPDIV/
+5. spoj_spmsum.c : Solution for http://www.spoj.com/problems/SMPSUM/
